@@ -23,7 +23,7 @@ In this research, we propose ***Cona Detect***, which is a CNN model, to diagnos
 * Pneumonia-bacterial
 * Pneumonia-viral
 
-##### CNN Model applued for experimental evaluation
+##### CNN Model applied for experimental evaluation
 * VGG16
 * VGG19
 * ResNet50
